@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string-array name="lessons">
+
+        <item>Music</item>
+        <item>Painting</item>
+        <item>conceptualism</item>
+
+
+    </string-array>
+
+</resources>
